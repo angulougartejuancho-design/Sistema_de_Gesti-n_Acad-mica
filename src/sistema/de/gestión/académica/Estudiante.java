@@ -32,5 +32,4 @@ public class Estudiante  extends Persona{
     public void describirRol() {
         System.out.println("Soy un estudiante de la carrera de " + carrera);
     }
-    
 }

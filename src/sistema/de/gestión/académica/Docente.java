@@ -31,6 +31,5 @@ public class Docente extends Persona {
     @Override
     public void describirRol() {
         System.out.println("Soy un docente especializado en " + especialidad);
-    }
-    
+    } 
 }
